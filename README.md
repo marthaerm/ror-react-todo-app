@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is a simple ToDo app created based on this [tutorial](https://pamit.medium.com/todo-list-building-a-react-app-with-rails-api-7a3027907665).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The same version of the app was done with Rails and React as separated projects, you can see the source code [here](https://github.com/marthaerm/ror-react-todo-app).
